@@ -14,6 +14,12 @@ Website link - https://maazxqureshi.github.io/
 
 ![](images/Activity2B.JPG)
 
+**Activity 3**
+
+![](images/Activity3A.JPG)
+
+![](images/Activity3B.JPG)
+
 
 Image References
 
